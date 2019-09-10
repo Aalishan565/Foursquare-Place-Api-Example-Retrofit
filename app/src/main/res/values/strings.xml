@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="no_internet">No internet connection.</string>
+    <string name="gps_not_supported">Gps not Supported</string>
+    <string name="map">Map</string>
+    <string name="list">List</string>
+    <string name="search">Search</string>
+</resources>
